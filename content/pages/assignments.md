@@ -24,7 +24,7 @@ Problem Set 1 ([PDF]({{< baseurl >}}/resources/ps1))
 Auxiliary File: dnasequence.pdf ([PDF]({{< baseurl >}}/resources/dnasequence))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps1_sol))
+([PDF]({{< baseurl >}}/resources/ps1_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -33,7 +33,7 @@ Auxiliary File: dnasequence.pdf ([PDF]({{< baseurl >}}/resources/dnasequence))
 Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps2_sol))
+([PDF]({{< baseurl >}}/resources/ps2_sol))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -42,7 +42,7 @@ Problem Set 2 ([PDF]({{< baseurl >}}/resources/ps2))
 Problem Set 3 ([PDF]({{< baseurl >}}/resources/ps3))
 {{< tdclose >}}
 {{< tdopen >}}
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ps3_sol))
+([PDF]({{< baseurl >}}/resources/ps3_sol))
 {{< tdclose >}}
 
 {{< trclose >}}

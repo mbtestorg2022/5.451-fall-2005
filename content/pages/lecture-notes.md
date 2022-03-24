@@ -22,7 +22,7 @@ TOPICS
 1-2
 {{< tdclose >}}
 {{< tdopen >}}
-Natural Product Biosynthesis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF - 2.1 MB]({{< baseurl >}}/resources/04peptidehandout))
+Natural Product Biosynthesis ([PDF - 2.1 MB]({{< baseurl >}}/resources/04peptidehandout))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -31,7 +31,7 @@ Natural Product Biosynthesis (![This resource may not render correctly in a scre
 3-4
 {{< tdclose >}}
 {{< tdopen >}}
-Polyketide Biosynthesis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/09_lecture))
+Polyketide Biosynthesis ([PDF]({{< baseurl >}}/resources/09_lecture))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -40,7 +40,7 @@ Polyketide Biosynthesis (![This resource may not render correctly in a screen re
 5-6
 {{< tdclose >}}
 {{< tdopen >}}
-Saccharide Biosynthesis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/11_saccharide))
+Saccharide Biosynthesis ([PDF]({{< baseurl >}}/resources/11_saccharide))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -49,9 +49,9 @@ Saccharide Biosynthesis (![This resource may not render correctly in a screen re
 7-8
 {{< tdclose >}}
 {{< tdopen >}}
-Shikimate Pathway (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/12_shikimate))  
+Shikimate Pathway ([PDF]({{< baseurl >}}/resources/12_shikimate))  
   
-Shikimate Pathway Flavonoids (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/14_flavonoid))
+Shikimate Pathway Flavonoids ([PDF]({{< baseurl >}}/resources/14_flavonoid))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,9 +60,9 @@ Shikimate Pathway Flavonoids (![This resource may not render correctly in a scre
 9-10
 {{< tdclose >}}
 {{< tdopen >}}
-Alkaloid Biosynthesis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/16_purine))  
+Alkaloid Biosynthesis ([PDF]({{< baseurl >}}/resources/16_purine))  
   
-Alkaloid Bioynthesis: Tyrosine Derivatives (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/17_tyrosine))
+Alkaloid Bioynthesis: Tyrosine Derivatives ([PDF]({{< baseurl >}}/resources/17_tyrosine))
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -71,7 +71,7 @@ Alkaloid Bioynthesis: Tyrosine Derivatives (![This resource may not render corre
 11-12
 {{< tdclose >}}
 {{< tdopen >}}
-Terpene Biosynthesis (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 1]({{< baseurl >}}/resources/19_terpene)) (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF 2]({{< baseurl >}}/resources/21_terpene2))
+Terpene Biosynthesis ([PDF 1]({{< baseurl >}}/resources/19_terpene)) ([PDF 2]({{< baseurl >}}/resources/21_terpene2))
 {{< tdclose >}}
 
 {{< trclose >}}
